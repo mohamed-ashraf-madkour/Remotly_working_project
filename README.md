@@ -95,7 +95,7 @@ Compares remote work experiences across different employee groups.
 - total jobs
 - total managers
 
----
+-------------------------------------------------
 
 # 📈 Project Goals
 
@@ -103,6 +103,21 @@ Compares remote work experiences across different employee groups.
 - Identify key benefits and barriers
 - Explore productivity trends
 - Support data-driven workplace decisions
+-------------------------------------------------
+# 📷 Dashboard Preview
+
+## 🟦 Overview Dashboard
+![Overview](screenshots/overview.png)
+
+## 🟩 Benefits Dashboard
+![Benefits](screenshots/benefits.png)
+
+## 🟥 Barriers Dashboard
+![Barriers](screenshots/barriers.png)
+
+## 🟨 Segmentation Dashboard
+![Segmentation](screenshots/segmentation.png)
+-------------------------------------------------
 
 By
 Mohamed Ashraf Madkour
